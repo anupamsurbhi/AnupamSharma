@@ -1,5 +1,6 @@
 # AnupamSharma
 Anupam Sharma - Backend Java Engineer &amp; Architect
+Connect with me on [LinkedIn](https://www.linkedin.com/in/aaditri/)
 
 
 ## Summary
